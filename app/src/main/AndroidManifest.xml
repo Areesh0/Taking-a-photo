@@ -2,6 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.takingaphoto">
 
+<!-- specifying a camera feature -->
     <uses-feature
         android:name="android.hardware.Camera"
         android:required="true" />

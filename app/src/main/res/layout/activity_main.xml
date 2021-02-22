@@ -8,7 +8,7 @@
     tools:context=".MainActivity"
     android:orientation="vertical"
     >
-
+<!-- adding a button that says take a photo -->
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -17,6 +17,7 @@
         android:layout_gravity="center_horizontal"
         android:layout_marginTop="65dp"
         />
+    <!-- creating an image view to display the image -->
     <ImageView
         android:layout_width="250dp"
         android:layout_height="250dp"
